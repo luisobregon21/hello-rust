@@ -53,4 +53,3 @@ in a file like ```main.rs``` add the line...
 ```Rust
  use ferris_says::say;
  ```
-# hello-rust
